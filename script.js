@@ -34,3 +34,17 @@ function input5(num1, num2) {
   }
 }
 console.log(input5(10, 20));
+//next
+let test = "ali";
+console.log(test);
+//next
+let test1 = "ali";
+let test2 = 20;
+let test3 = true;
+let test4 = null;
+let test5;
+console.log(typeof test1);
+console.log(typeof test2);
+console.log(typeof test3);
+console.log(typeof test4);
+console.log(typeof test5);
